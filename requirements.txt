@@ -1,0 +1,16 @@
+blinker==1.8.2
+build==1.2.1
+click==8.1.7
+coverage==7.6.1
+Flask==3.0.3
+-e git+ssh://git@github.com/toussinet/flask.git@499ce765b905243fb978b1615387c20198bdf1d6#egg=flaskr
+gunicorn==23.0.0
+iniconfig==2.0.0
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+packaging==24.1
+pluggy==1.5.0
+pyproject_hooks==1.1.0
+pytest==8.3.2
+Werkzeug==3.0.4
